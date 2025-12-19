@@ -1,0 +1,2 @@
+# manju-test
+IAM Policy
